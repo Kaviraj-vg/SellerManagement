@@ -16,6 +16,8 @@ export default {
       <div class="navbar-content">
         <div class="logo">
           <!-- <img src="@/assets/blibli_logo.jpeg" alt="Blibli Logo" /> -->
+
+          <div>Tharun</div>
            
             <img src="@/assets/blibli.webp" alt="Blibli Logo" />
 
